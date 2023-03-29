@@ -76,7 +76,7 @@ below:
 
 ### Document creation
 
-When the API is called to create a document with the above javascript, the following steps must be followed:
+When the API is called to create a document with the above JSON, the following steps must be followed:
 
 1. Substitute all placeholders in the HTML fragment
   - The placeholder is composed of a string inside two curly brackets `{{}}`. The string should correspond
