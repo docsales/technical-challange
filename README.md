@@ -95,5 +95,5 @@ When the API is called to create a document with the above JSON, the following s
 
 2. Generate the PDF
   - With the final HTML, the document should be converted to PDF using any tool available for this
-  purpose. After that it should be persisted along with the other data used to create the document, as
+  purpose. After that it should be persisted on cloud storage providers on production (e.g Amazon, Google Cloud Services, Azure), along with the other data used to create the document, as
   demonstrated above.
